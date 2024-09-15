@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-color:rgb(255, 157, 248);
+}
+
+.heading {
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 10rem;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 50px;
+
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.instructions{
+    border: 1px solid black;
+    width: 100%;
+    margin: 0 auto;
+}
